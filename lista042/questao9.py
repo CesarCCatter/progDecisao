@@ -6,8 +6,8 @@ idade, se é maior de idade, ou se é maior de 65 anos.
 idd = int(input("Informe um número: "))
 
 if ( idd < 18 ):
-    print("Você é menor de idade")
+    print("Você é menor de idade.")
 elif ( idd > 17 ):
-    print("Você é maior de idade")
+    print("Você é maior de idade.")
 elif (idd > 65):
-    print("Você tem mais de 65 anos")
+    print("Você tem mais de 65 anos.")

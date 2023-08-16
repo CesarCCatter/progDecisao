@@ -15,4 +15,4 @@ if (maior < num2):
 if (maior < num3):
     maior = num3
 
-print(f"O maior número inserido foi: {maior}")
+print(f"O maior número inserido foi: {maior}.")

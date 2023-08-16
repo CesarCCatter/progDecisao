@@ -11,7 +11,7 @@ idd = ana - ann
 
 
 #var = resultado_verdadeiro if teste condicional else resultado_falso
-resposta = f"A sua idade é: {idd}" if (idd >= 0) else "Os dados inseridos estão incorretos"
+resposta = f"A sua idade é: {idd}" if (idd >= 0) else "Os dados inseridos estão incorretos."
 
 print(resposta)
 

@@ -11,7 +11,7 @@ nt2 = float(input("Informe a nota do aluno na prova 2: "))
 media = (nt1 + nt2) /2
 
 if ( media < 3 ):
-    print("O aluno infelismente foi reprovado.")
+    print( "O aluno infelismente foi reprovado.")
 elif ( media < 7 ):
     print("O aluno está em prova final.")
 else:

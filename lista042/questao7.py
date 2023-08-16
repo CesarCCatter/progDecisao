@@ -7,8 +7,8 @@ num1 = input("Informe um número: ")
 num2 = input("Informe outro número:  ")
 
 if (num1 > num2):
-    print(f"O maior número é: {num1}")
+    print(f"O maior número é: {num1}.")
 elif (num2 > num1):
-    print(f"O maior número é: {num2}")
+    print(f"O maior número é: {num2}.")
 else:
-    print("Ambos os números são iguais")
+    print("Ambos os números são iguais.")
