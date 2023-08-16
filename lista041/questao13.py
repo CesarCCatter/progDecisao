@@ -32,7 +32,7 @@ if ( b > c ):
     c = aux
 
 
-print(f"Os valores em ordem crescente é: {a, b, c}")
+print(f"Os valores em ordem crescente é: {a, b, c}.")
 
 
 
