@@ -10,4 +10,4 @@ if (num<100):
 elif (num <= 200):
     print(f"{num} está entre 100 e 200")
 else:
-    print(f"{num} está acima de 200")
+    print(f"{num} está acima de 200.")
